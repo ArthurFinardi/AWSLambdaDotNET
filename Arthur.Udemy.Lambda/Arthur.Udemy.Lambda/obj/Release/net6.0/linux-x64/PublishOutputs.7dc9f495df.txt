@@ -1,0 +1,6 @@
+C:\Projects\Udemy\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Release\net6.0\publish\Arthur.Udemy.Lambda.deps.json
+C:\Projects\Udemy\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Release\net6.0\publish\Arthur.Udemy.Lambda.runtimeconfig.json
+C:\Projects\Udemy\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Release\net6.0\publish\Arthur.Udemy.Lambda.pdb
+C:\Projects\Udemy\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Projects\Udemy\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Projects\Udemy\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Release\net6.0\publish\Arthur.Udemy.Lambda.dll
