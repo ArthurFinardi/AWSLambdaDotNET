@@ -34,3 +34,4 @@ C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\obj\Re
 C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\obj\Release\net6.0\linux-x64\Arthur.Udemy.Lambda.pdb
 C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\obj\Release\net6.0\linux-x64\Arthur.Udemy.Lambda.genruntimeconfig.cache
 C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\obj\Release\net6.0\linux-x64\ref\Arthur.Udemy.Lambda.dll
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Release\net6.0\linux-x64\Amazon.Lambda.APIGatewayEvents.dll

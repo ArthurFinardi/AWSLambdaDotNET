@@ -19,6 +19,7 @@ C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\De
 C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Debug\net6.0\Arthur.Udemy.Lambda.runtimeconfig.json
 C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Debug\net6.0\Arthur.Udemy.Lambda.dll
 C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Debug\net6.0\Arthur.Udemy.Lambda.pdb
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Debug\net6.0\Amazon.Lambda.APIGatewayEvents.dll
 C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Debug\net6.0\Amazon.Lambda.Core.dll
 C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
 C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda\bin\Debug\net6.0\AWSSDK.Core.dll

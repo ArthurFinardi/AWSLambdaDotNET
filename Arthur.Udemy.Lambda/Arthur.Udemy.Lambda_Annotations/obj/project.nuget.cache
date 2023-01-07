@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9CrKjmph5cOB75MNiv+/dCqOtg3KRxqVxop5zrVrVqSN0XkxuqRsPZ4GE16JALqNYoapBIyQAHoBRuJY/i79A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Udemy\\AWSLambdaDotNET\\Arthur.Udemy.Lambda\\Arthur.Udemy.Lambda_Annotations\\Arthur.Udemy.Lambda_Annotations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\amazon.lambda.annotations\\0.10.0-preview\\amazon.lambda.annotations.0.10.0-preview.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.5.0\\amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.core\\3.7.103.11\\awssdk.core.3.7.103.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.19\\awssdk.dynamodbv2.3.7.101.19.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.11\\microsoft.netcore.app.crossgen2.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

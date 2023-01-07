@@ -1,0 +1,10 @@
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\Arthur.Udemy.Lambda_Annotations.deps.json
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\Arthur.Udemy.Lambda_Annotations.runtimeconfig.json
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\Arthur.Udemy.Lambda_Annotations.pdb
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\Amazon.Lambda.Annotations.dll
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Projects\Udemy\AWSLambdaDotNET\Arthur.Udemy.Lambda\Arthur.Udemy.Lambda_Annotations\bin\Release\net6.0\publish\Arthur.Udemy.Lambda_Annotations.dll
